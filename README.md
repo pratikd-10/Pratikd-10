@@ -18,7 +18,7 @@
 </p>
 </br>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-d10&theme=dark&show_icons=true&locale=en&layout=compact" alt="pratikd10" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikd-10&theme=dark&show_icons=true&locale=en&layout=compact" alt="pratikd10" /></p>
 
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pratik-d10&label=Profile%20views&color=0e75b6&style=flat" alt="pratikd10" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pratikd-10&label=Profile%20views&color=0e75b6&style=flat" alt="pratikd10" /> </p>
